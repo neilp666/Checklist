@@ -14,3 +14,7 @@ Checklist app with actionmailer
 
 * Developmetn Database - Sqlite
 
+* Font awesome
+
+
+
